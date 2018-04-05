@@ -30,7 +30,7 @@ document.write('Next year you will be ' + nextAge + '<br>');
 function rightAge () {
     if( age <= 18 ){
         document.write('Your are a child');
-    } else if ( age <= 70 ){
+    } else if ( age <= 75 ){
         document.write('Your are an Adult');
     } else 
         console.log(bye); 
